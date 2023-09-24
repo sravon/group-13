@@ -18,3 +18,10 @@ Hello, I am Abdura rahman Kazi. I am passionate about technology and enjoy worki
 
 Projects
 vinr-eu: Front-end developer and work in front-end with react and nextJs.
+
+
+## Al Imran Hossain
+
+### About Me
+
+Hello, I am Al Imran Hossain. I am passionate about technology and enjoy working on software development projects. I have experience in programming languages such as PHP, JavaScript, and Node.js. In my free time, I like to explore new coding challenges and contribute to open-source projects.
